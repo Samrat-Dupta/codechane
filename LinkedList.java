@@ -19,6 +19,8 @@ public class LinkedList {
 
         System.out.println("list is :" +list1);
 
+        //added some extra lines
+
         // remove data
         list1.remove(2);
         System.out.println("list1 after removing index 2 :" + list1);
